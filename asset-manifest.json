@@ -1,7 +1,7 @@
 {
   "main.css": "/ReactChat/static/css/main.6529e6e4.chunk.css",
-  "main.js": "/ReactChat/static/js/main.8f0dd364.chunk.js",
-  "main.js.map": "/ReactChat/static/js/main.8f0dd364.chunk.js.map",
+  "main.js": "/ReactChat/static/js/main.c1cf5b14.chunk.js",
+  "main.js.map": "/ReactChat/static/js/main.c1cf5b14.chunk.js.map",
   "static/css/1.00ad6935.chunk.css": "/ReactChat/static/css/1.00ad6935.chunk.css",
   "static/js/1.76d3a343.chunk.js": "/ReactChat/static/js/1.76d3a343.chunk.js",
   "static/js/1.76d3a343.chunk.js.map": "/ReactChat/static/js/1.76d3a343.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.00ad6935.chunk.css.map": "/ReactChat/static/css/1.00ad6935.chunk.css.map",
   "static/css/main.6529e6e4.chunk.css.map": "/ReactChat/static/css/main.6529e6e4.chunk.css.map",
   "index.html": "/ReactChat/index.html",
-  "precache-manifest.314401c9afcac19f914db946285865e0.js": "/ReactChat/precache-manifest.314401c9afcac19f914db946285865e0.js",
+  "precache-manifest.e5bea6ab85bf1e95a2cf24cecd6c63ae.js": "/ReactChat/precache-manifest.e5bea6ab85bf1e95a2cf24cecd6c63ae.js",
   "service-worker.js": "/ReactChat/service-worker.js"
 }
